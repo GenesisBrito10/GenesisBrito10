@@ -1,9 +1,5 @@
 # Olá ! Eu sou o Gênesis Brito 👋
 
-<div align="center">
-  <img src="sua_imagem_aqui.jpg" alt="Gênesis Jácome Ribeiro Brito" width="200"/>
-</div>
-
 ## Sobre Mim
 
 Olá, meu nome é Gênesis Jácome Ribeiro Brito. Tenho 22 anos e sou estudante de Ciência da Computação no Instituto Federal de Goiás, atualmente no 5° Período. Me especializo em desenvolvimento Back-End, mais especificamente usando Python e NodeJS.
