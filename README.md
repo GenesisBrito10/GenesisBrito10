@@ -1,4 +1,4 @@
-# Gênesis Jácome Ribeiro Brito
+# Olá ! Eu sou o Gênesis Brito 👋
 
 <div align="center">
   <img src="sua_imagem_aqui.jpg" alt="Gênesis Jácome Ribeiro Brito" width="200"/>
