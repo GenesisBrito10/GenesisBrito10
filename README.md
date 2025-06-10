@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá, meu nome é Gênesis Jácome Ribeiro Brito. Tenho 22 anos e sou estudante de Ciência da Computação no Instituto Federal de Goiás, atualmente no 6° Período. Me especializo em desenvolvimento Back-End, mais especificamente usando Python e NodeJS.
+Olá, meu nome é Gênesis Jácome Ribeiro Brito. Tenho 23 anos e sou estudante de Ciência da Computação no Instituto Federal de Goiás, atualmente no 6° Período. Me especializo em desenvolvimento Back-End, mais especificamente usando Python e NodeJS.
 
 ## Habilidades
 
