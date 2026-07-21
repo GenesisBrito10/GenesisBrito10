@@ -47,9 +47,9 @@ Atuação em:
 
 ---
 
-### KairoGen.ai — CTO e Desenvolvedor Full Stack
+### Kairogen.ai — CTO e Desenvolvedor Full Stack
 
-Participei da construção da arquitetura inicial da [KairoGen.ai](https://kairogen.ai), uma plataforma SaaS de geração de imagens e vídeos com inteligência artificial.
+Participei da construção da arquitetura inicial da [Kairogen.ai](https://kairogen.ai), uma plataforma SaaS de geração de imagens e vídeos com inteligência artificial.
 
 No início do projeto, assumi grande parte da implementação devido à ausência de uma equipe técnica experiente. Posteriormente, também passei a organizar demandas, revisar pull requests, orientar desenvolvedores e validar os merges para produção.
 
