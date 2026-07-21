@@ -6,8 +6,6 @@ Desenvolvo aplicações web e mobile de ponta a ponta, participando desde a defi
 
 Minha principal stack é formada por **Node.js, TypeScript, NestJS, Nuxt.js, React Native, MongoDB, PostgreSQL e Redis**.
 
-\
-
 ---
 
 ## Sobre mim
